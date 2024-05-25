@@ -1,0 +1,27 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#quote-box {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+}
+
+#quote {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+#author {
+    font-size: 1.2em;
+    color: #666;
+}
